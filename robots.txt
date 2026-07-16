@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://resources-kfo6z2.annotary.com/sitemap.xml
